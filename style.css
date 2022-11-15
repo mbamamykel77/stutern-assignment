@@ -1,0 +1,13 @@
+.main {
+    margin-left: 600px;
+}
+
+.likes {
+    background-color: cornflowerblue;
+    margin-right: 600px;
+}
+
+.dislikes {
+    background-color: fuchsia;
+    margin-right: 600px;
+}
